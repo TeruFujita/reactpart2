@@ -1,0 +1,11 @@
+{
+  "name": "react-usestate-workshop",
+  "private": true,
+  "description": "CodeSandbox templates for useState workshop (button + onClick)",
+  "scripts": {
+    "setup": "npm install --prefix templates/02-react-counter && npm install --prefix templates/02b-react-counter-whole",
+    "dev": "npm start --prefix templates/02-react-counter",
+    "dev:02": "npm start --prefix templates/02-react-counter",
+    "dev:02b": "npm start --prefix templates/02b-react-counter-whole"
+  }
+}
